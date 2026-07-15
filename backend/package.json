@@ -1,0 +1,23 @@
+{
+  "name": "techstore-backend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/server.js",
+    "start": "node src/server.js",
+    "seed": "node src/seed.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "cors": "latest",
+    "dotenv": "latest",
+    "express": "latest",
+    "helmet": "latest",
+    "mongoose": "latest",
+    "morgan": "latest"
+  },
+  "devDependencies": {
+    "supertest": "latest"
+  }
+}
