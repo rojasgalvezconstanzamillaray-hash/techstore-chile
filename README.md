@@ -4,7 +4,7 @@ Aplicación web responsiva para una tienda virtual de tecnología, desarrollada 
 
 ## Integrante
 
-- Vicente Andrés Piñaleo Purran
+- Constanza Rojas GAlvez
 
 ## Objetivo
 
